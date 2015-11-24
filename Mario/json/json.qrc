@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>map_1.json</file>
+        <file>items_1.json</file>
+        <file>monster_1.json</file>
+    </qresource>
+</RCC>

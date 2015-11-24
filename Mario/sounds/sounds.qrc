@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/musics">
+        <file>NSMB_Ecran_titre.mp3</file>
+        <file>NSMB_Monde1.mp3</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Bomb.mp3</file>
+        <file>Coin.wav</file>
+        <file>Enemie_Died.wav</file>
+    </qresource>
+</RCC>
