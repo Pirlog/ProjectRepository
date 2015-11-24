@@ -1,0 +1,8 @@
+Initialisation.
+
+Choix de la pupille n°1.
+
+Mouvements vers:x=0.000000, y=0.005000, z=-0.034000, rx=0.000000, ry=0.000000, rz=0.000000
+
+Arrêt du mouvement.
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+
+<configurations>
+	<nbPupilles value="2" />
+
+	<pupillesx_1 value="-38"/>
+	<pupillesy_1 value="-5"/>
+	<pupillesz_1 value="46"/>
+	<direcpupx_1 value="-30"/>
+	<direcpupy_1 value="-5"/>
+	<direcpupz_1 value="46"/>
+	<repereAsc_1 value="4"/>
+
+	<pupillesx_2 value="-38"/>
+	<pupillesy_2 value="-5"/>
+	<pupillesz_2 value="46"/>
+	<direcpupx_2 value="-30"/>
+	<direcpupy_2 value="-6.5"/>
+	<direcpupz_2 value="46"/>
+	<repereAsc_2 value="4"/>
+
+	<nomRepere_1 value="4"/>
+	<repcoordx_1 value="0"/>
+	<repcoordy_1 value="0"/>
+	<repcoordz_1 value="-23"/>
+	<reprotatx_1 value="0"/>
+	<reprotaty_1 value="0"/>
+	<reprotatz_1 value="0"/>
+	<repdeplac_1 value="0"/>
+	<depmaxtrx_1 value="0"/>
+	<depmaxtry_1 value="0"/>
+	<depmaxtrz_1 value="0"/>
+	<depmaxrtx_1 value="0"/>
+	<depmaxrty_1 value="0"/>
+	<depmaxrtz_1 value="0"/>
+
+</configurations>

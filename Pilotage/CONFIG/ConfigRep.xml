@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+
+<configurations>
+	<nbReperes value="3"/>
+
+	<nomRepere_2 value="3"/>
+	<repcoordx_2 value="0"/>
+	<repcoordy_2 value="0"/>
+	<repcoordz_2 value="275"/>
+	<reprotatx_2 value="0"/>
+	<reprotaty_2 value="0"/>
+	<reprotatz_2 value="0"/>
+	<repdeplac_2 value="0"/>
+	<depmaxtrx_2 value="0"/>
+	<depmaxtry_2 value="0"/>
+	<depmaxtrz_2 value="0"/>
+	<depmaxrtx_2 value="0"/>
+	<depmaxrty_2 value="0"/>
+	<depmaxrtz_2 value="0"/>
+
+	<nomRepere_3 value="2"/>
+	<repcoordx_3 value="1000"/>
+	<repcoordy_3 value="0"/>
+	<repcoordz_3 value="-264"/>
+	<reprotatx_3 value="0"/>
+	<reprotaty_3 value="0"/>
+	<reprotatz_3 value="0"/>
+	<repdeplac_3 value="63"/>
+	<depmaxtrx_3 value="250"/>
+	<depmaxtry_3 value="250"/>
+	<depmaxtrz_3 value="200"/>
+	<depmaxrtx_3 value="0.43633231"/>
+	<depmaxrty_3 value="0.43633231"/>
+	<depmaxrtz_3 value="0.43633231"/>
+</configurations>
